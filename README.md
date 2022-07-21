@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/-Ruby On Rails-9b111e?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node-50C878?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-023020?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-808080?style=for-the-badge&logo=Express&logoColor=white"/>
 </div>
 
 <br />
@@ -74,7 +76,7 @@
 <h3 align="left">Currently Learning</h3>
 <div>
   <img src="https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-023020?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </div>
 
 <br />
