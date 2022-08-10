@@ -45,7 +45,7 @@
   📫 How to reach me: 96jamesxu@gmail.com </br>
 </div>
 
-<h3 align="left">Tools/Frameworks I Use</h3>
+<h3 align="left">Tools/Libraries/Frameworks I Use</h3>
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
